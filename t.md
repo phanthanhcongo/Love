@@ -28,22 +28,22 @@
 
 | Ngày | Thứ | Tổng tin | Công | Giang | Chủ đề & Hoạt động nổi bật |
 | :---: | :---: | :---: | :---: | :---: | :--- |
-| **03/10/2026** | Thứ Bảy | 5 | 2 | 3 | Bắt đầu kết nối, lời chào lúc nửa đêm (`cốc cốc sốp ngủ chưa ta`) |
-| **04/10/2026** | Chủ Nhật | 361 | 212 | 149 | Đoán tuổi (Công 2k3, Giang 2k1), Công đi phượt Tà Xùa săn mây, ăn mì view triệu đô |
-| **05/10/2026** | Thứ Hai | 229 | 129 | 100 | Công hoàn thành chuyến đi Tà Xùa về Hà Nội, chia sẻ cảm xúc, bắt đầu tuần mới |
-| **06/10/2026** | Thứ Ba | 71 | 43 | 28 | 💘 **DATE 1**: Đi dạo Công viên Thống Nhất, nói chuyện ngoài đời rất hợp (tin nhắn ít do dành thời gian gặp trực tiếp) |
-| **07/10/2026** | Thứ Tư | 574 | 308 | 266 | Tán gẫu sôi nổi sau buổi hẹn đầu tiên, chia sẻ sở thích ăn uống, âm nhạc, dư âm buổi hẹn |
-| **08/10/2026** | Thứ Năm | 478 | 263 | 215 | Tâm sự về tính cách, gu bạn bè / người yêu, sinh hoạt cá nhân, tung hứng hài hước |
-| **09/10/2026** | Thứ Sáu | 422 | 236 | 186 | Tâm sự cuối tuần, Giang chuẩn bị về quê Nam Định, chia sẻ góc nhìn cuộc sống |
-| **10/10/2026** | Thứ Bảy | 302 | 172 | 130 | Cuối tuần thư giãn, Giang ở quê, chia sẻ hình ảnh và duy trì kết nối |
-| **11/10/2026** | Chủ Nhật | 633 | 391 | 242 | Cuối tuần bùng nổ tương tác: chia sẻ hình ảnh, tâm sự thâu đêm chờ ngày đầu tuần lên lại HN |
-| **12/10/2026** | Thứ Hai | 444 | 249 | 195 | Đầu tuần làm việc, lên kế hoạch cho buổi hẹn tiếp theo tại Aeon Mall |
-| **13/10/2026** | Thứ Ba | 322 | 190 | 132 | 💘 **DATE 2**: Cùng đi Aeon Mall chọn quà cho mẹ Công, ăn kimbap, xem phim ma ghế đôi dựa vào nhau |
-| **14/10/2026** | Thứ Tư | 736 | 405 | 331 | **Kỷ lục tin nhắn:** Dư âm Date 2 bùng nổ, tình cảm tiến triển vượt bậc, nhắn tin xuyên đêm |
-| **15/10/2026** | Thứ Năm | 655 | 373 | 282 | Duy trì tần suất trò chuyện dày đặc, cực kỳ gắn bó, bàn kế hoạch Date 3 (20/10) |
-| **16/10/2026** | Thứ Sáu | 655 | 345 | 310 | Cuối tuần tâm sự, Giang chuẩn bị về quê, hẹn nhau thứ Ba tuần tới (20/10) |
-| **17/10/2026** | Thứ Bảy | 515 | 272 | 243 | Giang ở quê gọi Công dậy sớm, Công đi làm liệu trình da mặt sưng đỏ nhưng Giang không chê, bàn chuyện họ hàng giục cưới |
-| **18/10/2026** | Chủ Nhật | 643 | 350 | 293 | Công đi Sóc Sơn dâng điểm tâm cho muỗi, cùng đếm mốc tròn 2 tuần quen nhau (từ 03/10), đùa chuyện bắt cóc, hẹn Date 3 (20/10) |
+| [**03/10/2026**](days/2026-10-03.md) | Thứ Bảy | 5 | 2 | 3 | Bắt đầu kết nối, lời chào lúc nửa đêm (`cốc cốc sốp ngủ chưa ta`) |
+| [**04/10/2026**](days/2026-10-04.md) | Chủ Nhật | 361 | 212 | 149 | Đoán tuổi (Công 2k3, Giang 2k1), Công đi phượt Tà Xùa săn mây, ăn mì view triệu đô |
+| [**05/10/2026**](days/2026-10-05.md) | Thứ Hai | 229 | 129 | 100 | Công hoàn thành chuyến đi Tà Xùa về Hà Nội, chia sẻ cảm xúc, bắt đầu tuần mới |
+| [**06/10/2026**](days/2026-10-06.md) | Thứ Ba | 71 | 43 | 28 | 💘 **DATE 1**: Đi dạo Công viên Thống Nhất, nói chuyện ngoài đời rất hợp (tin nhắn ít do dành thời gian gặp trực tiếp) |
+| [**07/10/2026**](days/2026-10-07.md) | Thứ Tư | 574 | 308 | 266 | Tán gẫu sôi nổi sau buổi hẹn đầu tiên, chia sẻ sở thích ăn uống, âm nhạc, dư âm buổi hẹn |
+| [**08/10/2026**](days/2026-10-08.md) | Thứ Năm | 478 | 263 | 215 | Tâm sự về tính cách, gu bạn bè / người yêu, sinh hoạt cá nhân, tung hứng hài hước |
+| [**09/10/2026**](days/2026-10-09.md) | Thứ Sáu | 422 | 236 | 186 | Tâm sự cuối tuần, Giang chuẩn bị về quê Nam Định, chia sẻ góc nhìn cuộc sống |
+| [**10/10/2026**](days/2026-10-10.md) | Thứ Bảy | 302 | 172 | 130 | Cuối tuần thư giãn, Giang ở quê, chia sẻ hình ảnh và duy trì kết nối |
+| [**11/10/2026**](days/2026-10-11.md) | Chủ Nhật | 633 | 391 | 242 | Cuối tuần bùng nổ tương tác: chia sẻ hình ảnh, tâm sự thâu đêm chờ ngày đầu tuần lên lại HN |
+| [**12/10/2026**](days/2026-10-12.md) | Thứ Hai | 444 | 249 | 195 | Đầu tuần làm việc, lên kế hoạch cho buổi hẹn tiếp theo tại Aeon Mall |
+| [**13/10/2026**](days/2026-10-13.md) | Thứ Ba | 322 | 190 | 132 | 💘 **DATE 2**: Cùng đi Aeon Mall chọn quà cho mẹ Công, ăn kimbap, xem phim ma ghế đôi dựa vào nhau |
+| [**14/10/2026**](days/2026-10-14.md) | Thứ Tư | 736 | 405 | 331 | **Kỷ lục tin nhắn:** Dư âm Date 2 bùng nổ, tình cảm tiến triển vượt bậc, nhắn tin xuyên đêm |
+| [**15/10/2026**](days/2026-10-15.md) | Thứ Năm | 655 | 373 | 282 | Duy trì tần suất trò chuyện dày đặc, cực kỳ gắn bó, bàn kế hoạch Date 3 (20/10) |
+| [**16/10/2026**](days/2026-10-16.md) | Thứ Sáu | 655 | 345 | 310 | Cuối tuần tâm sự, Giang chuẩn bị về quê, hẹn nhau thứ Ba tuần tới (20/10) |
+| [**17/10/2026**](days/2026-10-17.md) | Thứ Bảy | 515 | 272 | 243 | Giang ở quê gọi Công dậy sớm, Công đi làm liệu trình da mặt sưng đỏ nhưng Giang không chê, bàn chuyện họ hàng giục cưới |
+| [**18/10/2026**](days/2026-10-18.md) | Chủ Nhật | 643 | 350 | 293 | Công đi Sóc Sơn dâng điểm tâm cho muỗi, cùng đếm mốc tròn 2 tuần quen nhau (từ 03/10), đùa chuyện bắt cóc, hẹn Date 3 (20/10) |
 
 ---
 
@@ -147,9 +147,12 @@
 
 ## 5. TOÀN BỘ LỊCH SỬ TIN NHẮN CHI TIẾT THEO NGÀY
 
+> 💡 **Lưu ý**: Lịch sử tin nhắn chi tiết của từng ngày đã được tách thành các file độc lập trong thư mục [`days/`](./days/). Bạn có thể nhấn vào từng ngày dưới đây để xem riêng biệt.
 
 
-### Ngày 3/10/2026 (5 tin nhắn)
+
+
+### [Ngày 3/10/2026 (5 tin nhắn)](days/2026-10-03.md)
 
 - **[23:57:40] Công**: [Sticker](https://scontent.fhan2-3.fna.fbcdn.net/v/t39.1997-6/467816907_9086222604796782_4011424929534473795_n.png?_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_eui2=AeEq68qLGzbKS92V5cA4uCViFUO_bBQwJM8VQ79sFDAkz8sb7-zo7pXmvFsIKcuHlOh5x5X6HwvXn-HDJqePnl5D&_nc_ohc=RbH2db2KoX4Q7kNvwHfdzQp&_nc_oc=AdqkvHIIXfkNibYk620kk_ixLeriaj2W8xFIc5oQ7VMkk_Z49qcdWGOwuzLCYtlogFw_tieA2XS_9XIdzBP2SSGv&_nc_zt=26&_nc_ht=scontent.fhan2-3.fna&_nc_gid=zzyjkbiJHVxyqYqoAlkbvg&_nc_ss=792a8&oh=00_AQPZSfe8XrVDnlu-7iGoEL1dKtRusLX74xW6KpQnESnl5g&oe=6AD81CC3)
 - **[23:57:55] Công**: cốc cốc  
@@ -158,7 +161,7 @@
 - **[23:58:31] Giang**: [Sticker](https://scontent.fhan2-3.fna.fbcdn.net/v/t39.1997-6/47194145_1134365966737660_7669357117161078784_n.png?_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_eui2=AeGZuTyyJOS53zDuYOd9RFHKCqUvWedoguAKpS9Z52iC4KUtZkXwReRRghyMZM1etiir-mllmdHAErxG3Q8Pqus1&_nc_ohc=cLugrnu-0MkQ7kNvwHBtkZJ&_nc_oc=Adq4JIVgjZSXQJ26Rbidy7hUeBff-xoQUvdQJt8ml9AmKMkuTBj94f-KJeyoX212uRy6yLzjbmqCxrjHW-OuQoCm&_nc_zt=26&_nc_ht=scontent.fhan2-3.fna&_nc_gid=zzyjkbiJHVxyqYqoAlkbvg&_nc_ss=792a8&oh=00_AQMASVlkHam3Q9K4aXw0nxpOoP7Afa6QxGMpOqEXmwyiyA&oe=6AD81E7E)
 - **[23:58:34] Giang**: Dạ chưa
 
-### Ngày 4/10/2026 (361 tin nhắn)
+### [Ngày 4/10/2026 (361 tin nhắn)](days/2026-10-04.md)
 
 - **[00:01:02] Công**: tầm này sốp đang làm gì zị ta
 - **[00:02:23] Giang**: T vừa xem 2 tập phim xong
@@ -522,7 +525,7 @@
 - **[20:44:52] Giang**: Ừa c đi cẩn thận nha
 - **[23:44:30] Công**: hic mưa to dã man kèm cả mưa đá🫠
 
-### Ngày 5/10/2026 (229 tin nhắn)
+### [Ngày 5/10/2026 (229 tin nhắn)](days/2026-10-05.md)
 
 - **[00:04:16] Giang**: Ôi sợ thế
 - **[00:04:45] Giang**: Thế này mai nghỉ làm xong ở lại qua đêm nay. Ban ngày hẵng về c ạ
@@ -754,7 +757,7 @@
 - **[23:48:26] Giang**: Đc c
 - **[23:48:33] Công**: âu kề
 
-### Ngày 6/10/2026 (71 tin nhắn)
+### [Ngày 6/10/2026 (71 tin nhắn)](days/2026-10-06.md)
 
 - **[07:36:17] Giang**: Dậy thui chim đã hót vang trời
 - **[08:06:45] Công**: :)) toang lun
@@ -828,7 +831,7 @@
 - **[23:31:42] Công**: [Sticker](https://scontent.fhan2-3.fna.fbcdn.net/v/t39.1997-6/16685836_1458993954132381_7157059233479917568_n.png?_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_eui2=AeHhtHkLBh-tzk2ikVGw_TxuPXfts408xjc9d-2zjTzGN12777yNZIeDcDnRDV8PHD4V22ghDQG4olMQCjL97qSC&_nc_ohc=C0_Eq9QgtTEQ7kNvwFSq3rk&_nc_oc=AdrbVgmPh-lnC04Csbk8EnwlQEAbffD0Y8bv7BW1xNSV6yEFoJMRGIKmBznW7wMxYf1Kb9XBSGvLBsMN5gEuboVw&_nc_zt=26&_nc_ht=scontent.fhan2-3.fna&_nc_gid=n4jmm71k-AgvvmELRu3iHA&_nc_ss=792a8&oh=00_AQMivS4_zXyM8a-Lt0VG0pYMU6FcpGfgj5gzXvucP9bAcQ&oe=6AD82627)
 - **[23:32:41] Giang**: Ghê lun
 
-### Ngày 7/10/2026 (574 tin nhắn)
+### [Ngày 7/10/2026 (574 tin nhắn)](days/2026-10-07.md)
 
 - **[00:01:20] Công**: xong rùi
 - **[00:01:30] Công**: h mới ngồi bàn nè
@@ -1407,7 +1410,7 @@
 - **[23:24:02] Công**: nàng xỉu đi mơ thật đẹp nà
 - **[23:24:17] Công**: ![Ảnh](https://cdn.fbsbx.com/v/t59.2708-21/514595938_1911535399686541_8519422470435951777_n.gif?_nc_cat=105&ccb=1-7&_nc_sid=cf94fc&_nc_eui2=AeH8S2dJXZTW5cjQxchkxaGSOSzAgQ6GSAs5LMCBDoZIC7fsuSUQpiIfM6UkywIUORnBeDDGpVrnAeU-V8gsZvSt&_nc_ohc=ZDiteM6vAroQ7kNvwF64Wtc&_nc_oc=AdrU35dnAh82KevKtLZSsgYcwlhkyu79fo4CiqUGvhSXvajPlSOymCqRm5pn6T_2N53q4ox4fo4S1INGlUF5p-9V&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=VQ3fxOMvyrEaIE7nM75DVA&_nc_ss=792a8&oh=03_Q7cD6gG-zvrjCj-2nNhvZCbSvPlUinMBEnmDrzXu-tZ5z-a_0Q&oe=6AD42E74)
 
-### Ngày 8/10/2026 (478 tin nhắn)
+### [Ngày 8/10/2026 (478 tin nhắn)](days/2026-10-08.md)
 
 - **[07:05:20] Giang**: Good morning
 - **[07:42:54] Công**: Good morning nhó
@@ -1890,7 +1893,7 @@
 - **[23:29:07] Công**: ngủ diiiii
 - **[23:29:15] Công**: sáng dậy sớm gọi tui nghen
 
-### Ngày 9/10/2026 (422 tin nhắn)
+### [Ngày 9/10/2026 (422 tin nhắn)](days/2026-10-09.md)
 
 - **[07:13:09] Giang**: Morning thui c oiiiii
 - **[08:05:14] Công**: Hì morning nha cậu uiiii
@@ -2315,7 +2318,7 @@
 - **[23:40:51] Công**: [Sticker](https://scontent.fhan2-3.fna.fbcdn.net/v/t39.1997-6/36897732_237320160420977_3888209579258937344_n.png?_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_eui2=AeHzx9p2h1qWwb3gDR_AvoHEcHeRicWRLr1wd5GJxZEuvXDtM8SQtylj5VJ0xva6K_miJ38DcsYvCOZKiYL_5zQr&_nc_ohc=3vWF178XNB8Q7kNvwHlO3aV&_nc_oc=Adpy8v0_rznSDNF3NH3kTJtEXKZKBzEwYOxEIHfKfj3VhxTGRuF0T5i1Nyg_ww9NDKgYNiIbyjKqTg_Q9k0HQ6JK&_nc_zt=26&_nc_ht=scontent.fhan2-3.fna&_nc_gid=scFBvT7qIFMcA9Zabe150A&_nc_ss=792a8&oh=00_AQOFt7OUwSpYoM6EYro7zTwED1NuLBHYmFspbYOl0uBiug&oe=6AD835CF)
 - **[23:40:56] Công**: gõ cái
 
-### Ngày 10/10/2026 (302 tin nhắn)
+### [Ngày 10/10/2026 (302 tin nhắn)](days/2026-10-10.md)
 
 - **[06:42:49] Giang**: Gud mornin
 - **[06:43:23] Giang**: ![Ảnh](https://cdn.fbsbx.com/v/t59.2708-21/467107956_550417757771994_3082954178929672055_n.gif?_nc_cat=110&ccb=1-7&_nc_sid=cf94fc&_nc_eui2=AeEiB1TWR0jueNQqkAJgqtC7hdMF7ghNgSGF0wXuCE2BIfk3GtQGgCaj3YySLXiY8G5IRfDiLSuj4lllHetnGAiZ&_nc_ohc=weqZUYjlBfIQ7kNvwFAKIpp&_nc_oc=AdqOvMQUFpGBsUTIkOvSL74w25KFnk3GvSLNwEoSqeAZKx4yGt0I_MtH9YFfV7jFhuWB5FYzlykDCRV4iZ44zj16&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=scFBvT7qIFMcA9Zabe150A&_nc_ss=792a8&oh=03_Q7cD6gGLocsBnde36gLWIlYPH37wCmFA_OqEAB43FZd7BQZGWA&oe=6AD40FAF)
@@ -2620,7 +2623,7 @@
 - **[23:58:19] Công**: thứ ba cậu giúp tui chọn quà 20/10  rùi tầm 9h mình đi xem nhé👻
 - **[23:59:58] Giang**: Dzẹ dc
 
-### Ngày 11/10/2026 (633 tin nhắn)
+### [Ngày 11/10/2026 (633 tin nhắn)](days/2026-10-11.md)
 
 - **[00:00:06] Giang**: Chọn quà cho những ng nào nào
 - **[00:00:18] Giang**: Nma mk xem phim ma hay trại buôn ng
@@ -3256,7 +3259,7 @@
 - **[23:21:41] Giang**: Sợ kon ngừi c rùi dok /silent
 - **[23:23:58] Công**: /silent mai nhớ gọi tui dậy ó
 
-### Ngày 12/10/2026 (444 tin nhắn)
+### [Ngày 12/10/2026 (444 tin nhắn)](days/2026-10-12.md)
 
 - **[05:24:11] Giang**: Chào buổi sáng ạaaa
 - **[06:46:23] Công**: Chúc ẻm đầu tuần nhiều may mắn nhaaaa
@@ -3705,7 +3708,7 @@
 - **[23:44:16] Công**: ẻm ngủ ngoan dậy đúng giờ nghen
 - **[23:44:16] Công**: ![Ảnh](https://scontent.fhan14-3.fna.fbcdn.net/v/t1.15752-9/625469900_1597884088077940_8324250891211946259_n.png?stp=dst-png_p480x480&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFnMx2-3dyqSQrCxARQX21xVUXSe32l6D1VRdJ7faXoPX030YC2RLy6w6iLV6Qft6EnjThQXgCnuIPfvj91tmog&_nc_ohc=YqMw5YtUDVgQ7kNvwHfD4_i&_nc_oc=AdrBec7injqjfQa3X1BmgDi-ePO2Rgm2MMyxCv6NatBenEIwFUPgbsluyJRewRDHEjQI-NEgyqPJSAPkm-GyTQPD&_nc_zt=23&_nc_ht=scontent.fhan14-3.fna&_nc_ss=792a8&oh=03_Q7cD6gGMJnxyeyjBvayyEwZhL0amLMJa_84M8wXY6wFhvGQb0Q&oe=6AF9B084)
 
-### Ngày 13/10/2026 (322 tin nhắn)
+### [Ngày 13/10/2026 (322 tin nhắn)](days/2026-10-13.md)
 
 - **[07:16:07] Giang**: Chào buổi sáng nha c oi
 - **[07:33:30] Công**: hì ngày mới tốt lành nhaaa (edited)
@@ -4030,7 +4033,7 @@
 - **[23:59:54] Công**: drui
 - **[23:59:57] Giang**: 🤭
 
-### Ngày 14/10/2026 (736 tin nhắn)
+### [Ngày 14/10/2026 (736 tin nhắn)](days/2026-10-14.md)
 
 - **[00:00:07] Công**: chớ nay là 2 quạt hết công suất
 - **[00:00:09] Công**: 🤣
@@ -4772,7 +4775,7 @@
 - **[23:57:25] Công**: chúc ẻm mơ đẹp ngủ dậy người êm ái hông đau nhức nghen
 - **[23:57:51] Công**: ![Ảnh](https://cdn.fbsbx.com/v/t59.2708-21/766952249_1016954577783650_3993260457368429885_n.gif?_nc_cat=110&ccb=1-7&_nc_sid=cf94fc&_nc_eui2=AeFp54TXB3ctEcI54ZkM2Bb2OQUfYLPx-IM5BR9gs_H4g_jViBxwnxcCQf5Q_PafsXfXGi3SPi84UiP2TenNZ4NY&_nc_ohc=MRSOaRaTC38Q7kNvwEDqDQE&_nc_oc=AdqrTFx6MHsfho_qjzAPxf230NJvpYLyRnY6Sbt0lTXAaO098ppqVN28G9I6rKu5ePeci_QcI-7exjUufioBHtlx&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=oBJhR1D_JGUV2Xx8vYQs2A&_nc_ss=792a8&oh=03_Q7cD6gFiBHnuw-nWqlKTaKeMSaOz-fy_ivk0Bb4ANOq5T7c9Cg&oe=6AD43617)
 
-### Ngày 15/10/2026 (655 tin nhắn)
+### [Ngày 15/10/2026 (655 tin nhắn)](days/2026-10-15.md)
 
 - **[06:36:24] Giang**: Gud morning b nháaaa
 - **[06:38:10] Công**: ![Ảnh](https://cdn.fbsbx.com/v/t59.2708-21/601154844_4018709821606736_6536779789595173310_n.gif?_nc_cat=111&ccb=1-7&_nc_sid=cf94fc&_nc_eui2=AeEkUfXzfRBBsJNg8KPHgWS1oBUjqGaD2umgFSOoZoPa6TASdIUFl9BiQH2xOC50TrgniW9iLfkmJy0uRBY99BU-&_nc_ohc=2gr-H3DlessQ7kNvwFgY_d8&_nc_oc=Adpu1aLEJG7QxvhMoy_aNPK8vCEGloSYnkx69wYoqgC8ZcT_qpe5MIxGa7m16HYtFvIVblQg1Th5rP6_RGl9wp1g&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=oBJhR1D_JGUV2Xx8vYQs2A&_nc_ss=792a8&oh=03_Q7cD6gEB8uYVP-4fW3N3QQBG0Li50QL1R33sSuboxZuken5TpQ&oe=6AD41C1F)
@@ -5431,7 +5434,7 @@
 - **[23:58:55] Giang**: Nô
 - **[23:59:05] Giang**: -thực vật thân thảo
 
-### Ngày 16/10/2026 (655 tin nhắn)
+### [Ngày 16/10/2026 (655 tin nhắn)](days/2026-10-16.md)
 
 - **[00:00:18] Công**: liệu có phải là ngọt ngào như dâu tây ko ạ
 - **[00:00:19] Công**: :>
@@ -6089,7 +6092,7 @@
 - **[23:59:52] Giang**: K ai lamd
 - **[23:59:53] Giang**: [Sticker](https://scontent.fhan2-3.fna.fbcdn.net/v/t39.1997-6/16685836_1458993954132381_7157059233479917568_n.png?_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_eui2=AeHhtHkLBh-tzk2ikVGw_TxuPXfts408xjc9d-2zjTzGN12777yNZIeDcDnRDV8PHD4V22ghDQG4olMQCjL97qSC&_nc_ohc=C0_Eq9QgtTEQ7kNvwG6hYe8&_nc_oc=AdqTWhrFoV8ShGwzEvo7HeIXYeNmAblAe-V4pqkHiWRDiyabk5TOHqEWpx3Bk-8T_KNKjpLm_lRxa6fTvArGtV1f&_nc_zt=26&_nc_ht=scontent.fhan2-3.fna&_nc_gid=_xILRCC02sgCwPCXxkaN9g&_nc_ss=792a8&oh=00_AQOZ3dYZgzH1lKL1_evs06do-SnmUH6Gx6JV8-uwQQ8-vQ&oe=6ADAC927)
 
-### Ngày 17/10/2026 (515 tin nhắn)
+### [Ngày 17/10/2026 (515 tin nhắn)](days/2026-10-17.md)
 
 - **[00:01:06] Công**: troyy công ty ko party nx saooo
 - **[00:01:35] Giang**: Năm nay chỉ ăn uống đơn giản ở hn thui
@@ -6617,7 +6620,7 @@
 - **[23:58:07] Công**: [Sticker](https://scontent.fhan2-3.fna.fbcdn.net/v/t39.1997-6/16685607_1458994030799040_1925367906753839104_n.png?_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_eui2=AeFDqllQL1CNKeE4eNm8ib2S4mVEn4LmP9niZUSfguY_2aqynTRmrh8AkAE3VbepTJx1Hn_4FiZZDJ2Uo4OIqV0m&_nc_ohc=wbMt3X3mU0MQ7kNvwHoXsdg&_nc_oc=AdqUcdkWiJhvruxkg8zJ94c1Z1OzibC8QqIwmpoZPisDBPZ6izjcVvIaCiQy9z11QvcYRX-NWgA_wpBj_GJQ5gPC&_nc_zt=26&_nc_ht=scontent.fhan2-3.fna&_nc_gid=lgOlEeyvWg1itwwfAQNslA&_nc_ss=792a8&oh=00_AQP9S3oztsczxPdjWKljiyUMucTcDjVBoPL1TooJ9uO-GQ&oe=6ADABE65)
 - **[23:59:22] Giang**: [Sticker](https://scontent.fhan14-4.fna.fbcdn.net/v/t39.1997-6/454002424_1217083916306307_659457448068397547_n.png?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=23dd7b&_nc_eui2=AeHyLdv1CoeUCq6Ux0y4olCmXaZkOv13GJRdpmQ6_XcYlP5iUC6TkiCryKTGfZF0tPqZ9X51Cn8O688C1wixRxVL&_nc_ohc=3cQs5qKybD0Q7kNvwE5pT34&_nc_oc=AdqeWNmKydVQVMKjw-cF93c5MPhCjUkQ23QuB_S2ScUDtyIbDsFl9tnzAcq3oqmFQyPvYC8u9JnzHsZlOvg_m1PF&_nc_zt=26&_nc_ht=scontent.fhan14-4.fna&_nc_gid=lgOlEeyvWg1itwwfAQNslA&_nc_ss=792a8&oh=00_AQNnFn6y9khyq6aTVLxGeihJvZzwhYF2NMkiI7b0xMrDeg&oe=6ADAC12B)
 
-### Ngày 18/10/2026 (643 tin nhắn)
+### [Ngày 18/10/2026 (643 tin nhắn)](days/2026-10-18.md)
 
 - **[00:00:26] Giang**: Giỏi nhắm
 - **[00:00:57] Giang**: Thế quả nayd
