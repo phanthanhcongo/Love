@@ -1,10 +1,33 @@
-# Love
+# 💬 HGiang
 
-```
-analysis/   Báo cáo tổng hợp, phân tích tính cách, thiệp 20/10
-days/       Hội thoại tách theo từng ngày (YYYY-MM-DD.md)
-raw/        File HTML export gốc từ Messenger
-  export-old/  Bản export cũ (0, 1, 2)
-  export-new/  Bản export mới (2, 3)
-archive/    Bản backup cũ
-```
+> 👥 **Thành viên**: HGiang, Thành Công  
+> 📊 **Tổng**: 9555 tin nhắn trong 22 ngày (Công: 5327 | HGiang: 4228)  
+> 🗓️ **Khoảng thời gian**: 03/10/2026 → 24/10/2026  
+> 🕒 **Xuất lúc**: 08:44 24/10/2026 (Asia/Ho_Chi_Minh)
+
+---
+
+| Ngày | Thứ | Số tin |
+|---|---|---|
+| [03/10/2026](days/2026-10-03.md) | Thứ Bảy | 5 |
+| [04/10/2026](days/2026-10-04.md) | Chủ Nhật | 360 |
+| [05/10/2026](days/2026-10-05.md) | Thứ Hai | 229 |
+| [06/10/2026](days/2026-10-06.md) | Thứ Ba | 71 |
+| [07/10/2026](days/2026-10-07.md) | Thứ Tư | 572 |
+| [08/10/2026](days/2026-10-08.md) | Thứ Năm | 477 |
+| [09/10/2026](days/2026-10-09.md) | Thứ Sáu | 422 |
+| [10/10/2026](days/2026-10-10.md) | Thứ Bảy | 301 |
+| [11/10/2026](days/2026-10-11.md) | Chủ Nhật | 630 |
+| [12/10/2026](days/2026-10-12.md) | Thứ Hai | 443 |
+| [13/10/2026](days/2026-10-13.md) | Thứ Ba | 321 |
+| [14/10/2026](days/2026-10-14.md) | Thứ Tư | 735 |
+| [15/10/2026](days/2026-10-15.md) | Thứ Năm | 650 |
+| [16/10/2026](days/2026-10-16.md) | Thứ Sáu | 655 |
+| [17/10/2026](days/2026-10-17.md) | Thứ Bảy | 514 |
+| [18/10/2026](days/2026-10-18.md) | Chủ Nhật | 642 |
+| [19/10/2026](days/2026-10-19.md) | Thứ Hai | 579 |
+| [20/10/2026](days/2026-10-20.md) | Thứ Ba | 247 |
+| [21/10/2026](days/2026-10-21.md) | Thứ Tư | 583 |
+| [22/10/2026](days/2026-10-22.md) | Thứ Năm | 511 |
+| [23/10/2026](days/2026-10-23.md) | Thứ Sáu | 602 |
+| [24/10/2026](days/2026-10-24.md) | Thứ Bảy | 6 |

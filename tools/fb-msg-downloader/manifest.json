@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Messenger Downloader (GraphQL)",
+  "version": "1.0.0",
+  "description": "Tải lịch sử hội thoại Messenger ra JSON + Markdown theo ngày.",
+  "permissions": ["scripting"],
+  "host_permissions": ["https://www.facebook.com/*", "https://www.messenger.com/*"],
+  "action": {
+    "default_title": "Messenger Downloader",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.facebook.com/*", "https://www.messenger.com/*"],
+      "js": ["config.js", "lib/zip.js", "lib/exporter.js", "lib/fb-api.js", "content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
